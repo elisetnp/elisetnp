@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Elise T. 👋
+
+Just another student in data engineering.
 
 <!--
 **elisetnp/elisetnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
