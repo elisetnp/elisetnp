@@ -1,4 +1,4 @@
-### Hi there, I'm Elise T. 👋
+### Hi there, I'm E.T. 👋
 
 🌱 Just another noob in tech.
 
