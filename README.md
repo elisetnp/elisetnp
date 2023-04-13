@@ -1,6 +1,6 @@
 ### Hi there, I'm E.T. 👋
 
-🌱 Just another noob in tech.
+🌱 Just another data engineering enthusiast.
 
 <!--
 **elisetnp/elisetnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
