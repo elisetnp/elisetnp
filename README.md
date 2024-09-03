@@ -1,4 +1,4 @@
-### Hi there, I'm E.T. 👋
+### Hi there 👋
 
 💻⚙️ Over 3 years of experience as a Data Engineer, in tech since 2016
 <!--
