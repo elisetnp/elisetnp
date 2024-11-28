@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻⚙️ Over 3 years of experience as a Data Engineer, in tech since 2016
+💻⚙️ Over 4 years of experience as a Data Engineer, in tech since 2016
 <!--
 **elisetnp/elisetnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
